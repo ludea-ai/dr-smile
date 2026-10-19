@@ -5,6 +5,8 @@ window.GAME_I18N = window.GAME_I18N || {};
 window.GAME_I18N.en = {
   "Dr Smile": "Dr Smile",
   "Brosse les dents et rends tout le monde heureux !": "Brush teeth and make everyone happy!",
+  "Mentions légales": "Legal notice",
+  "Confidentialité": "Privacy",
   "Nomme ton cabinet :": "Name your clinic:",
   "Cabinet Tout Sourire": "Big Smile Clinic",
   "Mon cabinet": "My clinic",

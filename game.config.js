@@ -29,8 +29,9 @@ window.GAME = {
     shortName: "Dr Smile",
     tagline: "Brosse les dents et rends tout le monde heureux !",
     saveKey: "dr-smile",
+    legalLinks: [{ label: "Mentions légales", url: "https://ludea.ai/legal/" }, { label: "Confidentialité", url: "https://ludea.ai/privacy/" }],
     audience: { minAge: 6, notes: "young kids (6–7), gentle, cute, no stress, no fear, no pain/blood/scary tools, minimal text" },
-    assetVersion: "v52",
+    assetVersion: "v53",
     theme: { home: "#ffe0e9", play: "#cdeee6", closeup: "#fff1f6" },
 
     showCoins: true,
