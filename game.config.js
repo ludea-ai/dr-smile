@@ -31,7 +31,7 @@ window.GAME = {
     saveKey: "dr-smile",
     legalLinks: [{ label: "Mentions légales", url: "https://ludea.ai/legal/" }, { label: "Confidentialité", url: "https://ludea.ai/privacy/" }, { label: "Contact", url: "https://ludea.ai/contact/" }],
     audience: { minAge: 6, notes: "young kids (6–7), gentle, cute, no stress, no fear, no pain/blood/scary tools, minimal text" },
-    assetVersion: "v55",
+    assetVersion: "v56",
     theme: { home: "#ffe0e9", play: "#cdeee6", closeup: "#fff1f6" },
 
     showCoins: true,
